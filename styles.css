@@ -1,2 +1,10 @@
-
+p{
+	margin:20px;
+	border:15px;
+	padding:50px;
+	width:300px;
+	background-color:lightblue;
+	border-style:solid;
+	border-color:blue;
+}
 /* Your CSS Code here. */
